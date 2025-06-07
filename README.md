@@ -2,11 +2,6 @@
 
 Este proyecto es una página web de perfil hecha con HTML y CSS.
 
-## 📁 Estructura
-
-- `index.html` – Página principal
-- `styles.css` – Estilos del sitio
-
 ## 📥 Cómo instalar
 
 1. Clona el repositorio
@@ -25,4 +20,12 @@ Puedes personalizar el contenido modificando el archivo `index.html` o editando 
 
 ## 📃 Guia para contribuidores
 
-[Ver LICENSE.md 🪪](LICENSE.md) 
+1. Haz un fork del repositorio.
+2. Clona tu fork en tu computadora.
+3. Crea una rama nueva para tus cambios.
+4. Haz commits claros y ordenados.
+5. Abre un Pull Request cuando termines.
+
+## Licensias
+
+Antes de contribuir a este proyecto, por favor mira la [ LICENSE.md 🪪](LICENSE.md) 
